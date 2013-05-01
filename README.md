@@ -11,4 +11,6 @@ Builds cleanly using TeXShop on MacOS X. Easily works in any reasonable LaTeX en
 
 3. The Preface is not required. I invented that myself. It is commented out in 'main.tex'. If you would like to use the preface, simply uncomment it and edit the 'preface.txt' file.
 
+Thanks to Mark Micire, from whom I got this toolchain. I have incrementally improved it, as I'm sure he, and all the stewards before him, also did.
+
  
