@@ -13,4 +13,6 @@ Builds cleanly using TeXShop on MacOS X. Easily works in any reasonable LaTeX en
 
 Thanks to Mark Micire, from whom I got this toolchain. I have incrementally improved it, as I'm sure he, and all the stewards before him, also did.
 
+The current rules for dissertation formatting which this template is intended to implement can (probably) be found here: 
+http://libweb.uml.edu/information_services/thesis_dissertation.html
  
